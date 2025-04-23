@@ -1,0 +1,1 @@
+[![Intégration en continu de PersonWPF](https://github.com/Exeloz/module-13-Git-CICD/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Exeloz/module-13-Git-CICD/actions/workflows/ci.yml)
